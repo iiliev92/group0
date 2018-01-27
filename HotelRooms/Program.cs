@@ -50,7 +50,7 @@ namespace HotelRooms
                     apartmentPrice = 77 * days;
                 }
             }
-            else if (days > 14)
+            else if (days > 50)
             {
                 if (month == "May" || month == "October")
                 {
