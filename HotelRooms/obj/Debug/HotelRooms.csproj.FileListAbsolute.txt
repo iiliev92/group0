@@ -1,0 +1,6 @@
+D:\Iliev - IT Kariera\Excercises\ExamPreparation\HotelRooms\bin\Debug\HotelRooms.exe.config
+D:\Iliev - IT Kariera\Excercises\ExamPreparation\HotelRooms\bin\Debug\HotelRooms.exe
+D:\Iliev - IT Kariera\Excercises\ExamPreparation\HotelRooms\bin\Debug\HotelRooms.pdb
+D:\Iliev - IT Kariera\Excercises\ExamPreparation\HotelRooms\obj\Debug\HotelRooms.csproj.CoreCompileInputs.cache
+D:\Iliev - IT Kariera\Excercises\ExamPreparation\HotelRooms\obj\Debug\HotelRooms.exe
+D:\Iliev - IT Kariera\Excercises\ExamPreparation\HotelRooms\obj\Debug\HotelRooms.pdb
