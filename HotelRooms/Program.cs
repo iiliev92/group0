@@ -52,9 +52,9 @@ namespace HotelRooms
             }
             else if (days > 14)
             {
-                if (month == "May" || month == "October")
+                if (month == "May" && month == "October")
                 {
-                    studioPrice = 50 * days * 0.7; 
+                    studioPrice = 50 * days * 0.9; 
                 }
                 else if (month == "June" || month == "September")
                 {
